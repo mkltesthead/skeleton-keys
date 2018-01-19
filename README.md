@@ -7,8 +7,8 @@ and methodologies that are appropriate for that specific language.
 Hierarchy will be as follows:
 
 - Language
-- - Skeleton
-- - Tests
-- - Library
+- - bin
+- - lib
+- - test
 
 This is meant to be public. Anyone can view it, review it, offer suggestions, do anything they want with it :).
